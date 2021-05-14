@@ -1,0 +1,46 @@
+{
+  "movies": [
+    {
+      "id": 1001,
+      "name": "Bengali Movie1 in WestBengal",
+      "region": "West Bengal",
+      "date": "June 12th 2021",
+      "poster": "https://static.toiimg.com/thumb/msid-47094272,imgsize-532879,width-1070,height-580,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/47094272.jpg"
+    },
+    {
+      "id": 1002,
+      "name": "Bengali Movie2 in Jalpaiguri",
+      "region": "Jalpaiguri",
+      "date": "June 12th 2021",
+      "poster": "https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/very_big_1/public/feature/images/satyajit_ray_2.jpg?itok=BKzFBTNZ"
+    },
+    {
+      "name": "Bengali Movie3 in Howrah",
+      "date": "June 12th 2021",
+      "region": "Howrah",
+      "poster": "https://pbs.twimg.com/media/EWSMn2IUMAIKruR.jpg",
+      "id": 1003
+    },
+    {
+      "name": "Bengali Movie4 in MAlda",
+      "date": "June 12th 2021",
+      "region": "MAlda",
+      "poster": "https://cdnb.artstation.com/p/assets/images/images/008/655/221/large/sourav-aich-1f83f036415457-571b70b9131a4.jpg?1514317938",
+      "id": 1004
+    },
+    {
+      "name": "Bengali Movie5 in Siliguri",
+      "date": "June 12th 2021",
+      "region": "Siliguri",
+      "poster": "https://i.ytimg.com/vi/fL3y3sVYJ48/maxresdefault.jpg",
+      "id": 1005
+    },
+    {
+      "name": "Bengali Movie",
+      "date": "12 Jun 2022",
+      "region": "Kolkata",
+      "poster": "https://allaboutbanglacinema.org/wp-content/uploads/2017/02/review-12.jpg",
+      "id": 1006
+    }
+  ]
+}
